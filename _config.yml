@@ -76,16 +76,16 @@ share-links-active:
 
 # 바닥글에 웹 사이트 링크를 표시하는 방법입니다.
 # 바닥글에서 링크를 클릭하지 않으려면 이 항목 제거해주세요.
-url-pretty: "https://roqhdehd502.github.io"
+url-pretty: "https://github.com/roqhdehd502"
 
 # excerpt_length - 피드에 있는 각 게시물의 발췌문을 지정된 단어 수로 잘라냅니다.
 excerpt_length: 50
 
 # 피드의 모든 블로그 게시물에 대한 발췌문 표시 여부를 확인합니다.
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # 피드 페이지의 각 게시 미리 보기 아래에 태그 목록을 표시할지 여부
-feed_show_tags: false
+feed_show_tags: true
 
 # SEO 목적으로 웹 사이트와 연결할 키워드
 #keywords: "my,list,of,keywords"
