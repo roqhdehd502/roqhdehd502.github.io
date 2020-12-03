@@ -1,0 +1,231 @@
+# Beautiful Jekyll에 온 걸 환영합니다!
+# 이 구성 파일은 전체 웹 사이트의 설정파일 입니다.
+# 웹 사이트를 처음 설정할 때 설정할 목록들을 빠짐없이 체크 해주세요.
+# 초기 설정을 하고나면 자주 설정할 일은 없을겁니다.
+
+# --- 필수 옵션 --- #
+
+# 웹사이트 제목
+title: Journey to Dev
+
+# 작가 이름
+author: MinWoo Na
+
+# --- 탐색 모음의 링크 목록 --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Repository:
+    - Web Dev.: "https://github.com/roqhdehd502/WebDev"
+    - NNN Project: "https://github.com/roqhdehd502/Namin-Neural-Network"
+  Author's home: "https://github.com/roqhdehd502"
+
+# --- 로고 --- #
+
+# 탐색 모음에 표시할 이미지 - 네모난 이미지에 최적화입니다.
+# 이미지를 탐색 모음에서 제거하지 않으려면, 다음 매개 변수를 제거해주세요.
+avatar: "/assets/img/avatar-icon.png"
+
+# 기본적으로 이미지는 원 모양으로 절단됩니다. 'round-avatar: false'를 설정하여 이를 비활성화할 수 있습니다.
+round-avatar: true
+
+# 웹 사이트의 제목 대신 왼쪽 상단 모서리에 이미지 로고를 가지려면 다음 매개 변수를 지정하십시오.
+#title-img: /path/to/image
+
+
+# --- 하단의 소셜 미디어 링크 --- #
+
+# 바닥글에 표시할 소셜 네트워크 링크를 선택하십시오.
+# 표시할 각 링크에 정보를 추가하십시오.
+social-network-links:
+  email: "natorque5552@naver.com"
+  #facebook: deanattali
+  github: "/roqhdehd502"
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
+
+# 바닥글에 RSS에 대한 링크를 표시하려면 여기에 사이트 설명을 추가하십시오.
+# RSS 링크를 표시하지 않으려면 다음 줄을 제거하십시오.
+#rss-description: url
+
+# --- 일반 옵션 --- #
+
+# 게시물에 표시할 소셜 네트워크 링크를 선택해주십시오.
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: true
+
+# 바닥글에 웹 사이트 링크를 표시하는 방법입니다.
+# 바닥글에서 링크를 클릭하지 않으려면 이 항목 제거해주세요.
+url-pretty: "https://roqhdehd502.github.io"
+
+# excerpt_length - 피드에 있는 각 게시물의 발췌문을 지정된 단어 수로 잘라냅니다.
+excerpt_length: 50
+
+# 피드의 모든 블로그 게시물에 대한 발췌문 표시 여부를 확인합니다.
+feed_show_excerpt: false
+
+# 피드 페이지의 각 게시 미리 보기 아래에 태그 목록을 표시할지 여부
+feed_show_tags: false
+
+# SEO 목적으로 웹 사이트와 연결할 키워드
+#keywords: "my,list,of,keywords"
+
+# --- 색상/배경 이미지 --- #
+
+# 웹 사이트의 색상을 개인화하십시오. 색상 값은 모든 유효한 CSS 색상일 수 있음
+
+navbar-col: "#00adb5"
+navbar-text-col: "#eeeeee"
+navbar-border-col: "#00adb5"
+page-col: "#eeeeee"
+text-col: "#222831"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#00adb5"
+footer-text-col: "#eeeeee"
+footer-link-col: "#222831"
+
+# 또는 탐색바, 바닥글 및 페이지 배경을 이미지로 설정할 수 있다.
+# 색채 대신
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
+
+# 모바일 브라우저가 브라우저 테마로 사용할 색상을 제안하십시오. 이것은 몇몇 모바일 브라우저에서만 지원된다.
+#mobile-theme-col: "#0085A1"
+
+# 추가 시각적 사용자 지정을 위해 사이트의 모든 페이지에 추가 CSS 파일을 포함할 수 있다. 여기에 사용자 지정 CSS 파일 나열
+#site-css:
+#  - "/assets/css/custom-styles.css"
+
+# 모든 페이지에 포함되어야 하는 공통 JavaScript 파일이 있는 경우 여기에 나열하십시오.
+#site-js:
+#  - "/assets/js/custom-script.js"
+
+# --- 웹 분석 섹션 --- #
+
+# Google Analytics gtag.js ID를 입력하여 gtag를 사용하여 웹 사이트를 추적하십시오.
+#gtag: ""
+
+# Google Analytics를 사용하여 웹 사이트를 추적하려면 Google Analytics ID를 입력하십시오.
+#google_analytics: ""
+
+# Google 태그 관리자 ID
+#gtm: ""
+
+# 마토모(Piwik) 웹 통계
+# 마토모를 활성화하려면 다음 섹션의 연결을 해제하십시오. Out-Out 매개 변수 컨트롤
+# 사용자가 추적을 거부할 수 있도록 허용할지 여부.
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
+
+# --- 코멘트 --- #
+
+# Dissqus 설명을 사용하려면 https://disqus.com에 등록하고 Dissqus 단축 이름(userid가 아님)을 입력하십시오.
+#disqus: ""
+
+# Facebook Comments를 사용하려면 Facebook 앱을 만들고 Facebook 앱 ID를 입력하십시오.
+#fb_comment_id: ""
+
+# 발화(Utterances) 주석을 사용하십시오.: (0) 다음 절의 내용을 풀다., (1) "입력"을 기입하십시오(저장소가 공개되어 있는지 확인)., 
+# (2) 리포지토리에서 문제 사용, (3) 리포지토리에 발화(Utterances) 앱 설치 https://github.com/apps/utterances
+# 아래 매개 변수에 대한 자세한 내용은 다음에서 확인하십시오. https://utteranc.es/
+#utterances:
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  issue-term: title   # Mapping between blog posts and GitHub issues
+#  theme: github-light # Utterances theme
+#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+
+# To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
+# accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
+# Then uncomment the following section and fill in "repository" and "branch".
+# If you want to use reCaptcha for staticman (optional for spam protection), then fill
+# in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
+# See more details at https://staticman.net/
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
+#  reCaptcha:
+#    siteKey  : # Use your own site key, you need to apply for one on Google
+#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+
+# --- 잡다한 내용 --- #
+
+# 게시물 날짜를 표시하는 Ruby 날짜 형식
+date_format: "%B %-d, %Y"
+
+# 페이스북 어플 ID
+#fb_app_id: ""
+
+# --- 아래는 손대지 않아도 된다(원하면 손댈 수 있다) --- #
+
+# 출력옵션 (Jekyll에 방문하면 더 많은 정보를 얻을 수 있습니다.)
+timezone: "Asia/Seoul"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# 기본 YAML 값(Jekyll 사이트에 대한 추가 정보)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # 모든 블로그 게시물에 주석 추가
+      social-share: true # 모든 블로그 게시물에 소셜 미디어 공유 단추 추가
+  -
+    scope:
+      path: "" # 게시물이 아닌 파일은 기본적으로 "페이지" 레이아웃이 될 것이다.
+    values:
+    values:
+      layout: "page"
+
+# 프로덕션 사이트에서 이러한 파일 제외
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
+remote_theme : daattali/beautiful-jekyll
