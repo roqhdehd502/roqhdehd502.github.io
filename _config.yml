@@ -16,7 +16,7 @@ author: MinWoo Na
 navbar-links:
   About Me: "aboutme"
   Category:
-    - Basic Development Knowledge: "WebDev"
+    - Basic: "WebDev"
     - Machine Learning Jr.(Not Yet)
     - Etc(Not Yet)
   Repository:
