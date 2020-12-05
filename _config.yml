@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Category:
     - Basic: "WebDev"
-    - Machine Learning(Not Yet): "MachineLearning"
-    - Etc(Not Yet): "Etc"
+    #- Machine Learning(Not Yet): "MachineLearning"
+    #- Etc(Not Yet): "Etc"
   Repository:
     - Web Dev.: "https://github.com/roqhdehd502/WebDev"
     - NNN Project: "https://github.com/roqhdehd502/Namin-Neural-Network"
@@ -86,7 +86,7 @@ url-pretty: "https://github.com/roqhdehd502"
 excerpt_length: 50
 
 # 피드의 모든 블로그 게시물에 대한 발췌문 표시 여부를 확인합니다.
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # 피드 페이지의 각 게시 미리 보기 아래에 태그 목록을 표시할지 여부
 feed_show_tags: true
