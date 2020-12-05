@@ -1,5 +1,7 @@
 ---
+
 layout: category
 
 title: Etc
+
 ---
