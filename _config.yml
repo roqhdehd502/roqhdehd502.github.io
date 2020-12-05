@@ -16,9 +16,9 @@ author: MinWoo Na
 navbar-links:
   About Me: "aboutme"
   Category:
-    - WebDev: "WebDev"
-    - MacLrn: "MachineLearning"
-    - Etc: "Etc"
+    - WebDev: "/category/WebDev"
+    - MacLrn: "/category/MachineLearning"
+    - Etc: "/category/Etc"
   Repository:
     - Web Dev.: "https://github.com/roqhdehd502/WebDev"
     - NNN Project: "https://github.com/roqhdehd502/Namin-Neural-Network"
