@@ -19,9 +19,9 @@ navbar-links:
     - Web Dev.: "https://github.com/roqhdehd502/WebDev"
     - NNN Project: "https://github.com/roqhdehd502/Namin-Neural-Network"
   Category:
-    - WebDev: "/category/WebDev"
-    - MacLrn: "/category/MachineLearning"
-    - Etc: "/category/Etc"
+    - WebDev: "/WebDev"
+    - MacLrn: "/MachineLearning"
+    - Etc: "/Etc"
  
   Author's home: "https://github.com/roqhdehd502"
 
