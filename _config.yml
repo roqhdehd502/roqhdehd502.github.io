@@ -15,13 +15,14 @@ author: MinWoo Na
 
 navbar-links:
   About Me: "aboutme"
+  Repository:
+    - Web Dev.: "https://github.com/roqhdehd502/WebDev"
+    - NNN Project: "https://github.com/roqhdehd502/Namin-Neural-Network"
   Category:
     - WebDev: "/category/WebDev"
     - MacLrn: "/category/MachineLearning"
     - Etc: "/category/Etc"
-  Repository:
-    - Web Dev.: "https://github.com/roqhdehd502/WebDev"
-    - NNN Project: "https://github.com/roqhdehd502/Namin-Neural-Network"
+ 
   Author's home: "https://github.com/roqhdehd502"
 
 # --- 로고 --- #
