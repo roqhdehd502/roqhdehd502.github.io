@@ -24,6 +24,10 @@ navbar-links:
     - Etc: "/category/Etc/"
  
   Author's home: "https://github.com/roqhdehd502"
+  
+# --- 카테고리 --- #
+
+category_list: [WebDev, MachineLearning, Etc]
 
 # --- 로고 --- #
 
