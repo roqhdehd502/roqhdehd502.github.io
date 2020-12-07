@@ -25,10 +25,6 @@ navbar-links:
  
   Author's home: "https://github.com/roqhdehd502"
   
-# --- 카테고리 --- #
-
-category_list: [WebDev, MachineLearning, Etc]
-
 # --- 로고 --- #
 
 # 탐색 모음에 표시할 이미지 - 네모난 이미지에 최적화입니다.
