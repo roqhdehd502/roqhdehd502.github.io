@@ -1,6 +1,6 @@
 ---
 
-layout: home
+layout: category
 title: WebDev
 subtitle: 웹 개발에 관련된 지식을 올리는 곳 입니다.
 permalink: category/WebDev
