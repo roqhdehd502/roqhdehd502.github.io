@@ -1,9 +1,11 @@
 ---
+
 layout: page
 title: About me
 subtitle: Journey to Developer
----
+cover-img: /assets/img/cover-img.jpg #건들지말것
 
+---
 # 서론 #
 
 ## 자기 소개 ##
