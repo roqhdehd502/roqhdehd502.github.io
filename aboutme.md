@@ -3,7 +3,7 @@
 layout: page
 title: About me
 subtitle: Journey to Developer
-cover-img: /assets/img/cover-img.jpg #건들지말것
+cover-img: /assets/img/aboutme-img.jpg#건들지말것
 
 ---
 # 서론 #
